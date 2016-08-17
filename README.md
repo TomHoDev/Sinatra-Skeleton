@@ -33,3 +33,4 @@ Be prepared to give and receive specific, actionable, and kind feedback!
 1. Added irbtools and pry gems for trouble shooting. 
 2. Added bcrypt gem for password encryption.
 3. Added user model and migration with password encryption. 
+4. add helper method current_user to identify a user based off session(cookie)
