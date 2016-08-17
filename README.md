@@ -28,3 +28,8 @@ We would love for you to help make the skeleton more awesome, There are three wa
 3. Code review an open pull request!
 
 Be prepared to give and receive specific, actionable, and kind feedback!
+
+### Add Ons
+1. Added irbtools and pry gems for trouble shooting. 
+2. Added bcrypt gem for password encryption.
+3. Added user model and migration with password encryption. 
